@@ -198,5 +198,5 @@ src/
 ## 📄 License
 This project was developed for academic purposes at MIT World Peace University. All rights reserved by the authors.
 
-This project was developed for academic purposes at MIT World Peace University. All rights reserved by the authors.
+
 
